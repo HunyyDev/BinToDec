@@ -3,6 +3,7 @@ uses crt;
 var input,inputdao:string;
     A:array[1..100] of integer;
     tp,i,j,test:integer;
+	{hello Hưng khùng}
 begin
    writeln('Nhap nhi phan: ');
    readln(input);
@@ -24,4 +25,3 @@ begin
    writeln(tp);
    readln
   end.
-
